@@ -1,0 +1,5 @@
+Gene symbol: TPM3
+NCBI Gene ID: 7170
+Official name: tropomyosin 3
+Chromosome: 1
+NCBI source: https://www.ncbi.nlm.nih.gov/gene/7170

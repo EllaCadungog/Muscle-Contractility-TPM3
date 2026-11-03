@@ -1,0 +1,7 @@
+Gene: TPM3
+Transcript: NM_152263.4
+ClinVar Variation ID: 12454
+Variant: p.Arg168Cys
+Protein accession: NP_689476.2
+Protein length: 285
+Variant position: 168
